@@ -1,0 +1,22 @@
+{
+  "name": "cold-restaurant",
+  "version": "1.0.0",
+  "description": "mini-project reservation api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMantis0/cold-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMantis0/cold-restaurant/issues"
+  },
+  "homepage": "https://github.com/JMantis0/cold-restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
