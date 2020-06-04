@@ -33,8 +33,8 @@ app.get("/reserve", function (req, res) {
     res.sendFile(path.join(__dirname, "assets/html/reserve.html"));
 });
 
-app.get("/table", function (req, res) {
-    res.sendFile(path.join(__dirname, "assets/html/table.html"));
+app.get("/tables", function (req, res) {
+    res.sendFile(path.join(__dirname, "assets/html/tables.html"));
 });
 
 // get reservations data via the api
